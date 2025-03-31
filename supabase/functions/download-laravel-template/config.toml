@@ -1,0 +1,7 @@
+
+arm_compute_features = []
+env_vars = []
+image_registry = "public.ecr.aws/supabase/edge-runtime"
+image_tag = "v1.30.0"
+memory_size = 1024
+verify_jwt = false
